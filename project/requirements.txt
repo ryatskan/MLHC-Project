@@ -1,0 +1,8 @@
+pandas
+google
+numpy
+transformers~=4.33.2
+datasets
+joblib
+scikit-learn~=1.2.2
+xgboost

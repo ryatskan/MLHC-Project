@@ -9,3 +9,5 @@ The entire code for analysis is in the `notebook.ipynb` file:
 The `saved_models` directory contains all the trained models and their preprocessing. One of them is a fine-tuned BART model, and the rest are scikit-learn saved models.
 
 The `meta_data` directory contains two helper csv files for vital and labs pre-processing.
+
+The 'project' directory contains the runnable 'unseen_data_evaluation.py', and it uses the 'preprocessing.py' file for pre-processing and 'eval_functions.py' for evaluation.

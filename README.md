@@ -10,4 +10,4 @@ The `saved_models` directory contains all the trained models and their preproces
 
 The `meta_data` directory contains two helper csv files for vital and labs pre-processing.
 
-The 'project' directory contains the runnable 'unseen_data_evaluation.py', and it uses the 'preprocessing.py' file for pre-processing and 'eval_functions.py' for evaluation.
+The 'project' directory contains the unseen_data_evaluation.py that can be used to get predictions for given subject_ids, and it uses the preprocessing.py file for pre-processing and eval_functions.py for evaluation.
